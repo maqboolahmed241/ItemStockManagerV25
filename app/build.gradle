@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.maqbool.stockmanager'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.maqbool.stockmanager'
+        minSdk 23
+        targetSdk 35
+        versionCode 25
+        versionName '25.0'
+    }
+}
