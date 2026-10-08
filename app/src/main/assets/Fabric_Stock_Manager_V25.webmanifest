@@ -1,0 +1,10 @@
+{
+  "name": "Fabric Stock Manager V25",
+  "short_name": "Fabric Stock",
+  "lang": "ur",
+  "dir": "rtl",
+  "start_url": "file:///android_asset/index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#1565c0"
+}
